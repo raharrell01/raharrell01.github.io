@@ -65,3 +65,4 @@ kramdown:
 
 lsi: false
 safe: true
+logo: true
