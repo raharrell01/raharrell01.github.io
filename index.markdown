@@ -4,6 +4,7 @@ title: R. Avery Harrell Portfolio
 permalink: //
 ---
 # R. Avery Harrell
+![Avery in Iceland](/downloads/averyIcelandEgg.jpg)
 ## [About Me](/docs/about.markdown)
 Hello! I am a senior undergraduate student in the Information Science and Mathematics programs at CU Boulder. Learn more about my background and passions here.
 
