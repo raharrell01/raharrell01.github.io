@@ -1,4 +1,4 @@
 # R. Avery Harrell Personal Portfolio
 
-Link to portfolio page: raharrell01.github.io
+Link to portfolio page: https://raharrell01.github.io
 
