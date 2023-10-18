@@ -1,0 +1,329 @@
+,Name,Class,Subtype,D170,d30Si,d51V,e53Cr,e54Cr,D170_2se,d30Si_2se,d51V_2se,e53Cr_2se,e54Cr_2se
+0,10049,Moon,None,NaN,-0.280,NaN,NaN,NaN,NaN,0.03,NaN,NaN,NaN
+1,12054,Moon,Ilmenitebasalt1969 ...,NaN,-0.290,NaN,NaN,NaN,NaN,0.05,NaN,NaN,NaN
+2,12061,Moon,None,NaN,NaN,NaN,0.22,0.1,NaN,NaN,NaN,0.1,0.06
+3,14053,Moon,None,NaN,-0.270,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN
+4,15555,Moon,None,NaN,-0.280,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+5,70017,Moon,None,NaN,NaN,NaN,0.08,0.03,NaN,NaN,NaN,0.12,0.06
+6,77215,Moon,None,NaN,-0.240,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+7,A881334,Carbonaceous Chondrites,CM2 ...,-4.160,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+8,A881594,Carbonaceous Chondrites,CM2 ...,-2.490,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+9,A881655,Carbonaceous Chondrites,CM2 ...,-2.370,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+10,A881955,Carbonaceous Chondrites,CM2 ...,-2.580,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+11,ALH76005.17,Vesta,Eucrite ...,0.34,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+12,ALH76005.20,Vesta,Eucrite ...,0.33,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+13,ALH77055,Mars,None,0.326,NaN,NaN,NaN,NaN,0.068,NaN,NaN,NaN,NaN
+14,ALH77302.27,Vesta,Eucrite ...,0.53,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+15,ALH77307,Carbonaceous Chondrites,CO3 ...,-4.470,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+16,ALH78132.50,Vesta,Eucrite ...,0.29,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+17,ALH82135,Carbonaceous Chondrites,CK4 ...,-4.170,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+18,ALH83100,Carbonaceous Chondrites,CM1/2 ...,-2.500,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+19,ALH83100.202,Carbonaceous Chondrites,CM2 ...,NaN,NaN,-2.00,NaN,NaN,NaN,NaN,0.4,NaN,NaN
+20,ALH83108.40,Carbonaceous Chondrites,CO3.5 ...,NaN,NaN,-1.80,NaN,NaN,NaN,NaN,0.2,NaN,NaN
+21,ALH85085,Carbonaceous Chondrites,CH3 ...,-1.620,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+22,ALHA-78132,Vesta,Eucrite ...,NaN,-0.420,NaN,NaN,NaN,NaN,0.03,NaN,NaN,NaN
+23,ALHA77295,Enstatite Chondrites,EH3 ...,NaN,NaN,NaN,0.14,0.05,NaN,NaN,NaN,0.06,0.14
+24,Abee,Enstatite Chondrites,EH4 ...,NaN,-0.640,NaN,0.26,-0.060,NaN,0.04,NaN,0.08,0.12
+25,Abee EH4,Enstatite Chondrites,EH4 ...,NaN,-0.710,NaN,NaN,NaN,NaN,0.1,NaN,NaN,NaN
+26,Acfer-380,Ordinary Chondrites,H5 ...,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+27,Acfer082,Carbonaceous Chondrites,CV3 ...,-3.730,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+28,Acfer086,Carbonaceous Chondrites,CV3 ...,-3.400,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+29,Acfer094,Carbonaceous Chondrites,C2-un ...,-4.520,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+30,Acfer182,Carbonaceous Chondrites,CH3 ...,-1.550,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+31,Acfer202,Carbonaceous Chondrites,CO3 ...,-4.000,-0.490,NaN,NaN,NaN,0.07,0.01,NaN,NaN,NaN
+32,Acfer214,Carbonaceous Chondrites,CH3 ...,NaN,NaN,NaN,0.01,1.37,NaN,NaN,NaN,0.12,0.29
+33,Acfer243,Carbonaceous Chondrites,CO3 ...,-4.260,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+34,Acfer272,Carbonaceous Chondrites,CV3 ...,-2.650,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+35,Adelaide,Carbonaceous Chondrites,C2-un ...,-3.620,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+36,AdhiKot,Enstatite Chondrites,EH4 ...,-0.050,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+37,AlRais,Carbonaceous Chondrites,CR2 ...,-1.010,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+38,Alais,Carbonaceous Chondrites,CI ...,0.39,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+39,Albareto,Ordinary Chondrites,LL4 ...,1.2,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+40,Allegan,Ordinary Chondrites,H5 ...,0.61,-0.455,NaN,0.15,NaN,0.07,0.068,NaN,0.06,NaN
+41,Allende,Carbonaceous Chondrites,CV3 ...,-3.520,-0.520,-1.60,0.14,0.98,0.07,0.13,0.1,0.04,0.14
+42,Allende12,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.67,NaN,NaN,NaN,NaN,0.1,NaN,NaN
+43,Allende3,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.65,NaN,NaN,NaN,NaN,0.1,NaN,NaN
+44,Allende4,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.61,NaN,NaN,NaN,NaN,0.1,NaN,NaN
+45,Allende5,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.66,NaN,NaN,NaN,NaN,0.1,NaN,NaN
+46,Allende6,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.60,NaN,NaN,NaN,NaN,0.06,NaN,NaN
+47,Allende7,Carbonaceous Chondrites,CV3 ...,NaN,NaN,-1.71,NaN,NaN,NaN,NaN,0.01,NaN,NaN
+48,AllendeWR,Carbonaceous Chondrites,CV3 ...,NaN,NaN,NaN,0.04,0.86,NaN,NaN,NaN,0.06,0.09
+49,AmbapurNagla,Ordinary Chondrites,H5 ...,0.75,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+50,AppleyBridge,Ordinary Chondrites,LL6 ...,1.295,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+51,Arch,Carbonaceous Chondrites,CV3 ...,-4.950,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+52,Archeanshale,Earth,Abitibi ...,NaN,NaN,NaN,-0.020,NaN,NaN,NaN,NaN,0.08,NaN
+53,Atarra,Ordinary Chondrites,L4 ...,1.14,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+54,Atlanta,Enstatite Chondrites,EL6 ...,0.03,-0.560,NaN,NaN,NaN,0.07,0.13,NaN,NaN,NaN
+55,Ausson,Ordinary Chondrites,L5 ...,1.14,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+56,Axtell,Carbonaceous Chondrites,CV3 ...,-3.350,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+57,B7904,Carbonaceous Chondrites,C2-un ...,-0.050,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+58,BCR-1,Earth,Basalt ...,NaN,-0.190,NaN,NaN,NaN,NaN,0.03,NaN,NaN,NaN
+59,BHVO-1,Earth,None,NaN,NaN,NaN,0.01,0.08,NaN,NaN,NaN,0.05,0.13
+60,BHVO-2,Earth,Basalt ...,NaN,-0.270,NaN,NaN,NaN,NaN,0.01,NaN,NaN,NaN
+61,BHVO-2b,Earth,None,NaN,-0.262,NaN,NaN,NaN,NaN,0.053,NaN,NaN,NaN
+62,BIR-1,Earth,None,NaN,-0.270,NaN,0.06,0,NaN,0.04,NaN,0.08,0.24
+63,Bachmut,Ordinary Chondrites,L6 ...,1.16,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+64,Bali,Carbonaceous Chondrites,CV3 ...,-3.690,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+65,Banten,Carbonaceous Chondrites,CM2 ...,-2.970,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+66,Barratta,Ordinary Chondrites,L4 ...,NaN,NaN,NaN,0.29,-0.100,NaN,NaN,NaN,0.1,0.19
+67,Barwell,Ordinary Chondrites,L6 ...,1.165,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+68,Bath,Ordinary Chondrites,H4 ...,0.71,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+69,Beardsley,Ordinary Chondrites,H5 ...,0.75,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+70,Beavercreek,Ordinary Chondrites,H4 ...,0.76,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+71,Bells,Carbonaceous Chondrites,C2-un ...,-1.860,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+72,Bencubbin,Carbonaceous Chondrites,CB ...,-2.270,NaN,NaN,0.055,1.13,0.07,NaN,NaN,0.06,0.09
+73,Bereba,Vesta,Eucrite ...,NaN,-0.380,NaN,0.73,-0.740,NaN,0.04,NaN,0.07,0.11
+74,Bjurbole,Ordinary Chondrites,L4 ...,1,NaN,NaN,0.2,NaN,0.07,NaN,NaN,0.06,NaN
+75,Blithfield,Enstatite Chondrites,EL6 ...,0.07,-0.590,NaN,NaN,NaN,0.07,0.08,NaN,NaN,NaN
+76,BoXian,Ordinary Chondrites,LL4 ...,1.15,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+77,Bori,Ordinary Chondrites,L6 ...,1.06,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+78,Borkut,Ordinary Chondrites,L5 ...,1.06,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+79,Bouvante,Vesta,Eucrite ...,NaN,-0.400,NaN,0.65,-0.780,NaN,0.02,NaN,0.12,0.06
+80,Bremervörde,Ordinary Chondrites,H/L3 ...,NaN,NaN,NaN,0.36,0.36,NaN,NaN,NaN,0.1,0.19
+81,Bruderheim,Ordinary Chondrites,L6 ...,NaN,NaN,NaN,0.3,-0.260,NaN,NaN,NaN,0.1,0.19
+82,CabezodeMayo,Ordinary Chondrites,L6 ...,1.04,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+83,CapeGirardeau,Ordinary Chondrites,H6 ...,0.72,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+84,Chainpur,Ordinary Chondrites,LL3.4 ...,NaN,NaN,NaN,0.24,-0.470,NaN,NaN,NaN,0.06,0.07
+85,Charsonville,Ordinary Chondrites,H6 ...,0.65,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+86,Chassigny,Mars,SNC ...,0.3,-0.470,NaN,0.17,-0.210,0.058,0.06,NaN,0.07,0.05
+87,Chervettaz,Ordinary Chondrites,L5 ...,1.25,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+88,Cimarron,Carbonaceous Chondrites,CM2 ...,-2.910,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+89,ColdBokkeveld,Carbonaceous Chondrites,CM2 ...,-2.450,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+90,Coolidge,Carbonaceous Chondrites,C4-un ...,-4.500,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+91,Cynthiana,Ordinary Chondrites,L4 ...,1.08,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+92,DG005,Carbonaceous Chondrites,CK3 ...,-4.120,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+93,DR-N,Earth,Diorite ...,NaN,-0.260,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+94,DTS-2b,Earth,Dunite ...,NaN,-0.230,NaN,NaN,NaN,NaN,0.05,NaN,NaN,NaN
+95,DaG-476,Mars,"Shergottite,_Ol-phyricbasalt ...",NaN,-0.430,NaN,NaN,NaN,NaN,0.03,NaN,NaN,NaN
+96,DaG006,Carbonaceous Chondrites,CO3 ...,-3.880,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+97,DaG023,Carbonaceous Chondrites,CO3 ...,-4.330,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+98,DaG025,Carbonaceous Chondrites,CO3 ...,-4.240,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+99,Daniel'sKuil,Enstatite Chondrites,EL6 ...,0,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+100,Dar al Gani,Mars,None,0.317,NaN,NaN,NaN,NaN,0.048,NaN,NaN,NaN,NaN
+101,Deccanbasalt,Earth,None,NaN,NaN,NaN,0.03,0.08,NaN,NaN,NaN,0.08,0.15
+102,Dhurmsala,Ordinary Chondrites,LL6 ...,1.15,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+103,Dongtai,Ordinary Chondrites,LL6 ...,1.02,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+104,D’Orbigny,Angrites,None,NaN,-0.240,NaN,NaN,NaN,NaN,0.068,NaN,NaN,NaN
+105,EET83311,Carbonaceous Chondrites,CK5 ...,-4.320,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+106,EET83334,Carbonaceous Chondrites,CM1 ...,-2.280,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+107,EET87507,Carbonaceous Chondrites,CK5 ...,-4.150,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+108,EET87522,Carbonaceous Chondrites,CM2 ...,-3.710,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+109,EET87770,Carbonaceous Chondrites,CR2 ...,-1.220,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+110,EET87860,Carbonaceous Chondrites,CK5 ...,-4.140,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+111,EET90004,Carbonaceous Chondrites,CK5 ...,-4.200,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+112,EET92002,Carbonaceous Chondrites,CK5 ...,NaN,NaN,NaN,0.02,0.33,NaN,NaN,NaN,0.05,0.12
+113,EET92002.15,Carbonaceous Chondrites,CK4 ...,NaN,NaN,-1.80,NaN,NaN,NaN,NaN,0.2,NaN,NaN
+114,ES-9104,Earth,Basalt Trachyandesite ...,NaN,-0.250,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+115,Eagle,Enstatite Chondrites,EL6 ...,NaN,-0.610,NaN,NaN,NaN,NaN,0.12,NaN,NaN,NaN
+116,Efremovka,Carbonaceous Chondrites,CV3 ...,-5.080,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+117,ElDjouf001,Carbonaceous Chondrites,CR2 ...,-1.470,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+118,Elenovka,Ordinary Chondrites,L5 ...,1.065,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+119,Ensisheim,Ordinary Chondrites,LL6 ...,1.4,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+120,Ergheo,Ordinary Chondrites,L5 ...,0.98,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+121,ErtaAletholeite,Earth,None,NaN,NaN,NaN,-0.020,-0.020,NaN,NaN,NaN,0.06,0.08
+122,Essebi,Carbonaceous Chondrites,C2-un ...,-1.040,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+123,Estherville,Vesta,Mesosiderite ...,NaN,NaN,NaN,0.09,-0.700,NaN,NaN,NaN,0.06,0.13
+124,Farmington,Ordinary Chondrites,L5 ...,1.13,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+125,Felix,Carbonaceous Chondrites,CO3 ...,-4.590,NaN,NaN,0.07,0.63,0.07,NaN,NaN,0.06,0.09
+126,ForestCity,Ordinary Chondrites,H5 ...,0.75,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+127,ForestVale,Ordinary Chondrites,H4 ...,0.635,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+128,GM92-234,Earth,Peridotite ...,NaN,-0.330,NaN,NaN,NaN,NaN,0.05,NaN,NaN,NaN
+129,GR97-38,Earth,Peridotite ...,NaN,-0.270,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+130,GR97-52,Earth,Peridotite ...,NaN,-0.310,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN
+131,GRA06100,Carbonaceous Chondrites,CR ...,NaN,NaN,NaN,0.25,1.32,NaN,NaN,NaN,0.05,0.11
+132,GRO95517,Enstatite Chondrites,EH3 ...,NaN,-0.770,NaN,NaN,NaN,NaN,0.06,NaN,NaN,NaN
+133,GRO95552,Ordinary Chondrites,LL4 ...,NaN,NaN,NaN,0.19,-0.330,NaN,NaN,NaN,0.04,0.1
+134,GRO95566,Carbonaceous Chondrites,C2-un ...,-3.970,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+135,GRO95577,Carbonaceous Chondrites,CR1 ...,-0.450,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+136,Governador,Mars,Nakhlite_cpxnite ...,0.321,-0.510,NaN,NaN,NaN,0.02,0.07,NaN,NaN,NaN
+137,Grosnaja,Carbonaceous Chondrites,CV3 ...,-3.130,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+138,Guarena,Ordinary Chondrites,H6 ...,0.76,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+139,Guidder,Ordinary Chondrites,LL5 ...,1.19,NaN,NaN,0.21,NaN,0.07,NaN,NaN,0.06,NaN
+140,Gujba,Carbonaceous Chondrites,CBa3 ...,NaN,NaN,NaN,-0.030,1.07,NaN,NaN,NaN,0.13,0.27
+141,HH043,Carbonaceous Chondrites,CO3 ...,-4.110,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+142,HH073,Carbonaceous Chondrites,C4-un ...,-3.760,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+143,HH237,Carbonaceous Chondrites,CB ...,-2.170,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+144,Hainholz,Vesta,Mesosiderite ...,NaN,NaN,NaN,0.11,-0.700,NaN,NaN,NaN,0.06,0.13
+145,Harnler,Ordinary Chondrites,LL4 ...,1.36,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+146,Holbrook,Ordinary Chondrites,L6 ...,NaN,NaN,NaN,0.23,NaN,NaN,NaN,NaN,0.06,NaN
+147,Homestead,Ordinary Chondrites,L5 ...,1.11,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+148,Hvittis,Enstatite Chondrites,EL6 ...,0.07,-0.560,NaN,0.14,-0.010,0.07,0.1,NaN,0.07,0.17
+149,Ibitra,Vesta,Eucrite ...,0.44,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+150,Indarch,Enstatite Chondrites,EH4 ...,0.12,-0.790,NaN,0.21,0.05,0.07,0.11,NaN,0.07,0.14
+151,Isna,Carbonaceous Chondrites,CO3 ...,-4.550,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+152,Ivuna,Carbonaceous Chondrites,CI ...,0.47,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+153,JB-1a,Earth,None,NaN,NaN,NaN,0.07,0.2,NaN,NaN,NaN,0.06,0.15
+154,JGM-92-1c,Earth,Peridotite ...,NaN,-0.290,NaN,NaN,NaN,NaN,0.01,NaN,NaN,NaN
+155,JP-1,Earth,Peridotite ...,NaN,-0.290,NaN,0.11,0.28,NaN,0.06,NaN,0.1,0.19
+156,JajhdehKotLalu,Enstatite Chondrites,EL6 ...,0.07,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+157,Jelica,Ordinary Chondrites,LL6 ...,1.27,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+158,Johnstown,Vesta,Diogenite ...,NaN,NaN,-1.70,0.18,-0.560,NaN,NaN,0.2,0.06,0.19
+159,Jonzac,Vesta,Eucrite ...,NaN,NaN,NaN,NaN,-0.690,NaN,NaN,NaN,NaN,0.1
+160,Juvinas,Vesta,Eucrite ...,0.58,-0.410,NaN,0.65,-0.550,0.07,0.03,NaN,0.08,0.19
+161,KNO3,Earth,Peridotite ...,NaN,-0.230,NaN,NaN,NaN,NaN,0.06,NaN,NaN,NaN
+162,Kaba,Carbonaceous Chondrites,CV3 ...,-3.500,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+163,Kainsaz,Carbonaceous Chondrites,CO3 ...,-4.720,NaN,NaN,0.13,0.87,0.07,NaN,NaN,0.06,0.18
+164,Kapoeta,Vesta,Howardite ...,NaN,NaN,-1.60,0.32,-0.710,NaN,NaN,0.3,0.1,0.1
+165,Karoonda,Carbonaceous Chondrites,CK4 ...,-4.480,NaN,NaN,NaN,0.63,0.07,NaN,NaN,NaN,0.09
+166,Kendleton,Ordinary Chondrites,L4 ...,1.03,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+167,Kernouve,Ordinary Chondrites,H6 ...,0.78,NaN,NaN,0.19,-0.370,0.07,NaN,NaN,0.06,0.07
+168,Kesen,Ordinary Chondrites,H4 ...,0.63,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+169,Khairpur,Enstatite Chondrites,EL6 ...,0.1,NaN,NaN,0.27,0.14,0.07,NaN,NaN,0.1,0.19
+170,Khairpur (A),Enstatite Chondrites,EL6 ...,NaN,-0.580,NaN,NaN,NaN,NaN,0.13,NaN,NaN,NaN
+171,Khanpur,Ordinary Chondrites,LL5 ...,1.41,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+172,Knyahinya,Ordinary Chondrites,L5 ...,1.05,NaN,NaN,0.15,-0.380,0.07,NaN,NaN,0.06,0.08
+173,KotaKota,Enstatite Chondrites,EH4 ...,-0.150,NaN,NaN,0.105,0.08,0.07,NaN,NaN,0.07,0.21
+174,Ksar Ghilane 002,Mars,None,0.325,NaN,NaN,NaN,NaN,0.2,NaN,NaN,NaN,NaN
+175,LAP03601,Ordinary Chondrites,H4 ...,NaN,NaN,NaN,0.21,-0.280,NaN,NaN,NaN,0.06,0.11
+176,LEW85311,Carbonaceous Chondrites,CM2 ...,-3.230,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+177,LEW85332,Carbonaceous Chondrites,C3-un ...,-2.420,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+178,LEW86258,Carbonaceous Chondrites,CK4 ...,-4.550,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+179,LEW87009,Carbonaceous Chondrites,CK6 ...,-4.320,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+180,LEW87016,Carbonaceous Chondrites,CM2 ...,-2.950,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+181,LEW87022,Carbonaceous Chondrites,CM2 ...,-2.200,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+182,LEW87148,Carbonaceous Chondrites,CM2 ...,-2.150,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+183,LEW87214,Carbonaceous Chondrites,CK4 ...,-4.250,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+184,LEW88001,Carbonaceous Chondrites,CM2 ...,-2.900,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+185,LEW88002,Carbonaceous Chondrites,CM2 ...,-4.210,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+186,LEW90500,Carbonaceous Chondrites,CM2 ...,-2.480,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+187,LON94100,Enstatite Chondrites,EL6 ...,NaN,-0.650,NaN,0.17,-0.020,NaN,0.07,NaN,0.04,0.14
+188,Lafayette,Mars,Nakhlite_cpxnite ...,0.62,-0.530,NaN,NaN,NaN,0.07,0.06,NaN,NaN,NaN
+189,Lance,Carbonaceous Chondrites,CO3 ...,-4.350,NaN,NaN,-0.040,0.57,0.07,NaN,NaN,0.07,0.11
+190,LeTeilleul,Vesta,Howardite ...,NaN,-0.450,NaN,NaN,NaN,NaN,0.05,NaN,NaN,NaN
+191,Leighton,Ordinary Chondrites,H5 ...,0.87,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+192,Leoville,Carbonaceous Chondrites,CV3 ...,-4.730,NaN,NaN,0.12,0.71,0.07,NaN,NaN,0.04,0.15
+193,LosAngeles,Mars,"Shergottite,_Px-phyricbasalt ...",0.17,-0.330,NaN,NaN,NaN,0.07,0.06,NaN,NaN,NaN
+194,MAC 88184,Enstatite Chondrites,EL3 ...,NaN,-0.520,NaN,NaN,NaN,NaN,0.09,NaN,NaN,NaN
+195,MAC87300,Carbonaceous Chondrites,C2-un ...,-3.950,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+196,MAC87320,Carbonaceous Chondrites,CR2 ...,-1.800,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+197,MAC88100,Carbonaceous Chondrites,CM2 ...,-2.130,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+198,MAC88101,Carbonaceous Chondrites,CM2 ...,-2.240,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+199,MAC88107,Carbonaceous Chondrites,C2-un ...,-4.390,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+200,MAC88136,Enstatite Chondrites,EL3 ...,NaN,NaN,NaN,0.15,0.02,NaN,NaN,NaN,0.03,0.09
+201,MAC88176,Carbonaceous Chondrites,CM2 ...,-2.030,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+202,MG91-3,Earth,Peridotite ...,NaN,-0.300,NaN,NaN,NaN,NaN,0.06,NaN,NaN,NaN
+203,MIL-03_346,Mars,Nakhlite_cpxnite ...,NaN,-0.490,NaN,NaN,NaN,NaN,0.06,NaN,NaN,NaN
+204,Mangwandi,Ordinary Chondrites,LL6 ...,1.14,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+205,Maralinga,Carbonaceous Chondrites,CK4 ...,-4.450,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+206,Mighei,Carbonaceous Chondrites,CM2 ...,-2.500,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+207,Mocs,Ordinary Chondrites,L6 ...,1.13,-0.460,NaN,NaN,NaN,0.07,0.06,NaN,NaN,NaN
+208,Modoc,Ordinary Chondrites,L6 ...,1.08,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+209,Mokoia,Carbonaceous Chondrites,CV3 ...,-2.740,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+210,Moore county,Vesta,Eucrite ...,0.32,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+211,Mt.Browne,Ordinary Chondrites,H6 ...,0.69,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+212,Murchison,Carbonaceous Chondrites,CM2 ...,-2.600,NaN,NaN,0.16,0.89,0.07,NaN,NaN,0.04,0.08
+213,Murray,Carbonaceous Chondrites,CM2 ...,-3.070,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+214,NK-01,Earth,Peridotite ...,NaN,-0.290,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+215,NWA-1757,Carbonaceous Chondrites,CO3 ...,NaN,-0.450,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+216,NWA-1777,Vesta,Eucrite ...,NaN,-0.460,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+217,NWA-2258,Ordinary Chondrites,L5 ...,NaN,-0.470,NaN,NaN,NaN,NaN,0.06,NaN,NaN,NaN
+218,NWA-4260,Ordinary Chondrites,L6 ...,NaN,-0.470,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+219,NWA-4278,Ordinary Chondrites,L6 ...,NaN,-0.460,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+220,NWA-4425,Carbonaceous Chondrites,CK3 ...,NaN,-0.410,NaN,NaN,NaN,NaN,0.01,NaN,NaN,NaN
+221,NWA1670,Angrites,None,NaN,-0.168,NaN,NaN,NaN,NaN,0.052,NaN,NaN,NaN
+222,NWA6291,Angrites,None,NaN,-0.221,NaN,NaN,NaN,NaN,0.076,NaN,NaN,NaN
+223,Nakhla,Mars,SNC ...,0.305,-0.560,-1.70,0.27,-0.350,0.032,0.07,0.2,0.1,0.19
+224,NanYangPo,Ordinary Chondrites,L4 ...,0.97,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+225,Ningqiang,Carbonaceous Chondrites,CV3 ...,-4.550,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+226,Nogoya,Carbonaceous Chondrites,CM2 ...,-2.000,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+227,NuevoLaredo,Vesta,Mesosiderite ...,NaN,NaN,NaN,0.815,-0.385,NaN,NaN,NaN,0.08,0.11
+228,OU-2,Earth,Dolerite ...,NaN,-0.250,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+229,Ochansk,Ordinary Chondrites,H4 ...,0.82,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+230,Olivenza,Ordinary Chondrites,LL5 ...,NaN,NaN,NaN,0.23,NaN,NaN,NaN,NaN,0.06,NaN
+231,Olivernza,Ordinary Chondrites,LL5 ...,1.125,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+232,Orgueil,Carbonaceous Chondrites,CI ...,0.39,-0.440,-1.90,0.22,1.62,0.07,0.03,0.2,0.05,0.13
+233,Ornans,Carbonaceous Chondrites,CO3 ...,-4.450,NaN,NaN,0.19,1.03,0.07,NaN,NaN,0.1,0.19
+234,PAT91546,Carbonaceous Chondrites,CH3 ...,-1.250,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+235,PCA82500,Carbonaceous Chondrites,CK4 ...,-3.460,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+236,PCA91020,Enstatite Chondrites,EL3 ...,NaN,NaN,NaN,0.16,0.09,NaN,NaN,NaN,0.03,0.08
+237,PCA91328,Carbonaceous Chondrites,CH3 ...,-1.500,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+238,PCA91452,Carbonaceous Chondrites,CH3 ...,-1.270,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+239,PCA91467,Carbonaceous Chondrites,CH3 ...,-1.470,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+240,PCC-1,Earth,None,NaN,NaN,NaN,0.03,0.13,NaN,NaN,NaN,0.04,0.08
+241,PMS,Earth,"MicrogabbroPitscurrie, ...",NaN,-0.290,NaN,NaN,NaN,NaN,0.03,NaN,NaN,NaN
+242,PREM89-1,Earth,Peridotite ...,NaN,-0.280,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+243,PREM90-24,Earth,Peridotite ...,NaN,-0.300,NaN,NaN,NaN,NaN,0.05,NaN,NaN,NaN
+244,Pantar,Ordinary Chondrites,H5 ...,0.56,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+245,Paragould,Ordinary Chondrites,LL5 ...,1.39,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+246,Parnallee,Ordinary Chondrites,LL3 ...,NaN,-0.480,NaN,0.38,-0.080,NaN,0.08,NaN,0.1,0.19
+247,Parsa,Enstatite Chondrites,EH4 ...,0.03,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+248,Pasamonte,Vesta,Eucrite ...,0.31,-0.380,-1.70,0.82,-0.450,0.07,0.04,0.1,0.1,0.19
+249,Pillistfer,Enstatite Chondrites,EL6 ...,0.02,-0.410,NaN,0.15,0.09,0.07,0.081,NaN,0.05,0.08
+250,Plainview,Ordinary Chondrites,H5 ...,NaN,NaN,-1.70,NaN,NaN,NaN,NaN,0.3,NaN,NaN
+251,QUE93005,Carbonaceous Chondrites,CM2 ...,-2.540,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+252,QUE93429,Carbonaceous Chondrites,CV3 ...,-5.270,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+253,QUE94204,Enstatite Chondrites,EH7 ...,NaN,NaN,NaN,0.28,0.21,NaN,NaN,NaN,0.03,0.08
+254,QUE94411,Carbonaceous Chondrites,CB ...,-2.250,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+255,QUE97008,Ordinary Chondrites,L3 ...,NaN,NaN,NaN,0.17,-0.420,NaN,NaN,NaN,0.06,0.14
+256,Qidong,Ordinary Chondrites,L5 ...,1.09,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+257,Qingzhen,Enstatite Chondrites,EH3 ...,-0.030,-0.820,NaN,0.2,-0.020,0.07,0.11,NaN,0.06,0.08
+258,Queen'sMercy,Ordinary Chondrites,H6 ...,0.72,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+259,RKP92435,Carbonaceous Chondrites,CH3 ...,-1.520,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+260,ROM69,Earth,None,NaN,NaN,NaN,0.05,0.16,NaN,NaN,NaN,0.04,0.1
+261,Ramsdorf,Ordinary Chondrites,L6 ...,0.805,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+262,Renazzo,Carbonaceous Chondrites,CR2 ...,-0.960,NaN,NaN,0.2,1.3,0.07,NaN,NaN,0.1,0.21
+263,Richardton,Ordinary Chondrites,H5 ...,0.61,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+264,SaU-005,Mars,"Shergottite,_Ol-phyricbasalt ...",NaN,-0.450,NaN,NaN,NaN,NaN,0.02,NaN,NaN,NaN
+265,Sahara 97096,Enstatite Chondrites,EH3 ...,NaN,-0.820,NaN,NaN,NaN,NaN,0.09,NaN,NaN,NaN
+266,Sahara99555,Angrites,None,NaN,-0.243,NaN,NaN,NaN,NaN,0.068,NaN,NaN,NaN
+267,Saratov,Ordinary Chondrites,L4 ...,1.02,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+268,Savtschenskoje,Ordinary Chondrites,LL4 ...,1.285,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+269,Serra de Mag6,Vesta,Eucrite ...,0.51,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+270,Shalka,Vesta,Diogenite ...,NaN,NaN,NaN,-0.030,-0.800,NaN,NaN,NaN,0.06,0.06
+271,Shergotty,Mars,SNC ...,0.335,-0.450,NaN,0.22,-0.180,0.068,0.06,NaN,0.08,0.17
+272,Siena,Ordinary Chondrites,LL5 ...,1.32,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+273,SokoBanja,Ordinary Chondrites,LL4 ...,1.32,NaN,NaN,0.34,NaN,0.07,NaN,NaN,0.06,NaN
+274,SouthOman,Enstatite Chondrites,EH4 ...,-0.370,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+275,St.Marks,Enstatite Chondrites,EH5 ...,0.11,-0.740,NaN,NaN,NaN,0.07,0.11,NaN,NaN,NaN
+276,St.Mesmin,Ordinary Chondrites,LL6 ...,1.13,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+277,St.Sauveur,Enstatite Chondrites,EH5 ...,0.04,-0.590,NaN,NaN,NaN,0.07,0.05,NaN,NaN,NaN
+278,St.Séveron,Ordinary Chondrites,LL6 ...,1.16,NaN,NaN,0.28,-0.410,0.07,NaN,NaN,0.06,0.1
+279,Stannern,Vesta,Eucrite ...,NaN,NaN,NaN,0.63,-0.710,NaN,NaN,NaN,0.07,0.07
+280,Ste.-Marguerite,Ordinary Chondrites,H4 ...,NaN,NaN,NaN,0.13,-0.390,NaN,NaN,NaN,0.06,0.07
+281,Sutter's Mill 43,Carbonaceous Chondrites,CM2 ...,NaN,NaN,NaN,0.14,0.95,NaN,NaN,NaN,0.04,0.09
+282,Sutter's Mill 51,Carbonaceous Chondrites,CM2 ...,NaN,NaN,NaN,0.12,0.88,NaN,NaN,NaN,0.04,0.07
+283,TIEcondrule-magnetic,Ordinary Chondrites,H3 ...,NaN,NaN,NaN,0.24,-0.170,NaN,NaN,NaN,0.04,0.12
+284,TIEcondrule-non-magnetic,Ordinary Chondrites,H3 ...,NaN,NaN,NaN,0.35,-0.180,NaN,NaN,NaN,0.05,0.12
+285,TIEmatrix,Ordinary Chondrites,H3 ...,NaN,NaN,NaN,0.3,-0.250,NaN,NaN,NaN,0.07,0.14
+286,TIEmetal,Ordinary Chondrites,H3 ...,NaN,NaN,NaN,0.44,0.79,NaN,NaN,NaN,0.09,0.12
+287,Tagish Lake-1,Carbonaceous Chondrites,C2-un ...,-0.870,NaN,NaN,0.53,1.19,0.07,NaN,NaN,0.05,0.15
+288,Tanezrouft-065,Ordinary Chondrites,L4 ...,NaN,-0.480,NaN,NaN,NaN,NaN,0.01,NaN,NaN,NaN
+289,Tatahouine,Vesta,Vesta ...,NaN,NaN,NaN,0.18,-0.560,NaN,NaN,NaN,0.06,0.19
+290,Tathlith,Ordinary Chondrites,L6 ...,1.15,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+291,Tennasilm,Ordinary Chondrites,L4 ...,1.15,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+292,Tibetchromite,Earth,None,NaN,NaN,NaN,0.03,0.03,NaN,NaN,NaN,0.07,0.08
+293,Tibetchromiteb,Earth,None,NaN,NaN,NaN,NaN,-0.010,NaN,NaN,NaN,NaN,0.14
+294,Tibooburra,Carbonaceous Chondrites,CV3 ...,-4.710,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+295,Tillaberi,Ordinary Chondrites,L6 ...,0.97,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+296,TysnesIsland,Ordinary Chondrites,H4 ...,0.7,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+297,Ufana,Enstatite Chondrites,EL6 ...,0.12,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+298,VacaMuerta,Vesta,Mesosiderite ...,NaN,NaN,NaN,0.12,-0.750,NaN,NaN,NaN,0.06,0.1
+299,Vavilovka,Ordinary Chondrites,LL6 ...,1.21,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+300,Vigarano,Carbonaceous Chondrites,CV3 ...,-4.230,NaN,NaN,0.18,0.865,0.07,NaN,NaN,0.07,0.12
+301,WITS-1,Earth,Komatiite ...,NaN,-0.260,NaN,NaN,NaN,NaN,0.04,NaN,NaN,NaN
+302,Warrenton,Carbonaceous Chondrites,CO3 ...,-4.070,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+303,Watson002,Carbonaceous Chondrites,CK3 ...,-3.210,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+304,Weatherford,Carbonaceous Chondrites,CB ...,-2.530,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+305,Weston,Ordinary Chondrites,H4 ...,0.88,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+306,Witsand,Ordinary Chondrites,LL4 ...,1.35,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+307,Xingyang,Ordinary Chondrites,H5 ...,0.81,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+308,Xiujimgin,Ordinary Chondrites,L6 ...,1.06,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+309,Y6903,Carbonaceous Chondrites,CK4 ...,-4.170,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+310,Y691,Enstatite Chondrites,EH4 ...,-0.050,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+311,Y790112,Carbonaceous Chondrites,CR2 ...,-1.560,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+312,Y791498,Carbonaceous Chondrites,CR2 ...,-1.640,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+313,Y791717,Carbonaceous Chondrites,CO3 ...,-4.370,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+314,Y793321,Carbonaceous Chondrites,CM2 ...,-2.940,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+315,Y793495,Carbonaceous Chondrites,CR2 ...,-1.630,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+316,Y793595,Carbonaceous Chondrites,CM2 ...,-2.450,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+317,Y82042,Carbonaceous Chondrites,CM1/2 ...,-2.020,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+318,Y82054,Carbonaceous Chondrites,CM2 ...,-4.840,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+319,Y82098,Carbonaceous Chondrites,CM2 ...,-3.810,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+320,Y82104,Carbonaceous Chondrites,CK5 ...,-4.300,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+321,Y82162,Carbonaceous Chondrites,C1/2-un ...,0.38,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+322,Y8449,Carbonaceous Chondrites,CR2 ...,-2.160,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+323,Y86695,Carbonaceous Chondrites,CM2 ...,-4.140,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+324,Y86720,Carbonaceous Chondrites,C2-un ...,-0.010,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+325,Y86789,Carbonaceous Chondrites,C2-un ...,-0.060,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
+326,Zagami,Mars,Shergottite_basalt ...,0.343,-0.490,NaN,NaN,NaN,0.056,0.05,NaN,NaN,NaN
+327,Zhovtnevyi,Ordinary Chondrites,H5 ...,0.86,NaN,NaN,NaN,NaN,0.07,NaN,NaN,NaN,NaN
