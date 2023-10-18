@@ -1,7 +1,7 @@
 ---
 layout: default
 title: R. Avery Harrell Portfolio
-permalink: /home/
+permalink: //
 ---
 
 # [About Me](/docs/about.markdown)
